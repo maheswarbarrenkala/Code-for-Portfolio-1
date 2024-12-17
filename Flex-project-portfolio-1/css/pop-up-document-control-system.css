@@ -1,0 +1,93 @@
+/* screen - pop-up-document-control-system */
+
+.pop-up-document-control-system {
+  align-items: flex-start;
+  display: flex;
+  width: 351px;
+}
+
+.pop-up-document-control-system .overlap-group1 {
+  height: 510px;
+  position: relative;
+  width: 351px;
+}
+
+.pop-up-document-control-system .icround-close {
+  cursor: pointer;
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 456px;
+  width: 40px;
+}
+
+.pop-up-document-control-system .mobile-document-control-system {
+  height: 458px;
+  left: 1px;
+  position: absolute;
+  top: 26px;
+  width: 350px;
+}
+
+.pop-up-document-control-system .frame-191 {
+  align-items: center;
+  height: 144px;
+  justify-content: center;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.pop-up-document-control-system .as-a-skilled-softwar {
+  height: 144px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  width: 234px;
+}
+
+.pop-up-document-control-system .overlap-group {
+  height: 240px;
+  left: 50px;
+  position: absolute;
+  top: 32px;
+  width: 300px;
+}
+
+.pop-up-document-control-system .right-arrow {
+  height: 58px;
+  left: 242px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.pop-up-document-control-system .frame-183 {
+  background-image: url(../img/rectangle-109-20@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  gap: 20px;
+  height: 190px;
+  left: 0;
+  overflow: hidden;
+  top: 0;
+  width: 250px;
+}
+
+.pop-up-document-control-system .rectangle-109-1 {
+  height: 190px;
+  margin-left: -4987px;
+  margin-top: -14508px;
+  width: 250px;
+}
+
+.pop-up-document-control-system .rectangle-109 {
+  height: 190px;
+  margin-top: -14508px;
+  width: 250px;
+}
+
+.pop-up-document-control-system .frame {
+  display: flex;
+  position: absolute;
+}

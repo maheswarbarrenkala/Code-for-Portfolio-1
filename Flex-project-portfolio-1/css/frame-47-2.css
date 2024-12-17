@@ -1,0 +1,27 @@
+/* screen - frame-47-2 */
+
+.frame-47-2 {
+  background-image: url(../img/rectangle-85.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 425px;
+  min-width: 500px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.frame-47-2 .rectangle-85 {
+  height: 425px;
+  margin-top: 435px;
+  object-fit: cover;
+  width: 500px;
+}
+
+.frame-47-2 .rectangle-85-1 {
+  height: 425px;
+  object-fit: cover;
+  width: 500px;
+}

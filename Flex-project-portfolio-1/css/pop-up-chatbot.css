@@ -1,0 +1,104 @@
+/* screen - pop-up-chatbot */
+
+.pop-up-chatbot {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 45.9%, rgba(73.5, 73.5, 73.5, 0.43) 84.9%, rgba(0, 0, 0, 0.21) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 10px;
+  display: flex;
+  height: 510px;
+  overflow: hidden;
+  padding: 14px 0;
+  width: 350px;
+}
+
+.pop-up-chatbot .overlap-group1 {
+  height: 470px;
+  margin-top: 12px;
+  position: relative;
+  width: 350px;
+}
+
+.pop-up-chatbot .icround-close {
+  cursor: pointer;
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 430px;
+  width: 40px;
+}
+
+.pop-up-chatbot .mobile-chatbot {
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.pop-up-chatbot .frame-182 {
+  align-items: center;
+  height: 144px;
+  justify-content: center;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.pop-up-chatbot .ive-successfully-de {
+  height: 144px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 0;
+  text-align: center;
+  width: 234px;
+}
+
+.pop-up-chatbot .overlap-group {
+  height: 240px;
+  left: 50px;
+  position: absolute;
+  top: 32px;
+  width: 300px;
+}
+
+.pop-up-chatbot .right-arrow {
+  height: 58px;
+  left: 242px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.pop-up-chatbot .frame-183 {
+  background-image: url(../img/rectangle-85.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  gap: 20px;
+  height: 190px;
+  left: 0;
+  top: 0;
+  width: 250px;
+}
+
+.pop-up-chatbot .rectangle-85 {
+  height: 190px;
+  margin-left: 270px;
+  object-fit: cover;
+  width: 250px;
+}
+
+.pop-up-chatbot .rectangle-85-1 {
+  height: 190px;
+  object-fit: cover;
+  width: 250px;
+}
+
+.pop-up-chatbot .frame {
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+}

@@ -1,0 +1,51 @@
+/* screen - oracle-java */
+
+.oracle-java {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 45.9%, rgba(73.5, 73.5, 73.5, 0.43) 84.9%, rgba(0, 0, 0, 0.21) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 10px;
+  gap: 31px;
+  min-height: 549px;
+  min-width: 999px;
+  width: 100%;
+}
+
+.oracle-java .java {
+  background-image: url(../img/rectangle-133-10.png);
+  background-size: 100% 100%;
+  flex-direction: column;
+  gap: 10px;
+  height: 467px;
+  margin-left: 35px;
+  width: 603px;
+}
+
+.oracle-java .rectangle-134 {
+  margin-top: -4167px;
+}
+
+.oracle-java .i-am-a-certified-css {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_sans_condensed-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 467px;
+  letter-spacing: 0;
+  line-height: 29px;
+  text-align: center;
+  width: 295px;
+}
+
+.oracle {
+  display: flex;
+  overflow: hidden;
+}
+
+.oracle-java .rectangle {
+  height: 467px;
+  margin-left: 5117px;
+  width: 603px;
+}

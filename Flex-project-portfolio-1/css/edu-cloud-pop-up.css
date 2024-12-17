@@ -1,0 +1,79 @@
+/* screen - edu-cloud-pop-up */
+
+.edu-cloud-pop-up {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 45.9%, rgba(73.5, 73.5, 73.5, 0.43) 84.9%, rgba(0, 0, 0, 0.21) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 10px;
+  display: flex;
+  min-height: 549px;
+  min-width: 999px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.edu-cloud-pop-up .edu-cloud {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  border-radius: 10px;
+  display: flex;
+  gap: 38px;
+  height: 549px;
+  overflow: hidden;
+  padding: 0 38px;
+  width: 999px;
+}
+
+.edu-cloud-pop-up .frame-100 {
+  background-image: url(../img/rectangle-107-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 50px;
+  flex-direction: column;
+  height: 425px;
+  margin-left: 2px;
+  width: 500px;
+}
+
+.edu-cloud-pop-up .rectangle-107 {
+  height: 425px;
+  margin-left: -3967px;
+  margin-top: -6127px;
+  width: 500px;
+}
+
+.edu-cloud-pop-up .rectangle-107-1 {
+  margin-left: -3967px;
+  margin-top: 10px;
+}
+
+.edu-cloud-pop-up .rectangle-107-2 {
+  margin-top: 6572px;
+  object-fit: cover;
+}
+
+.edu-cloud-pop-up .frame-57 {
+  align-items: center;
+  width: 383px;
+}
+
+.edu-cloud-pop-up .as-a-skilled-cloud-a {
+  height: 200px;
+  letter-spacing: 0;
+  line-height: 29px;
+  margin-top: 4px;
+  text-align: center;
+  width: 383px;
+}
+
+.edu-cloud-pop-up .frame {
+  display: flex;
+  overflow: hidden;
+}
+
+.edu-cloud-pop-up .rectangle-107-3 {
+  height: 425px;
+  width: 500px;
+}

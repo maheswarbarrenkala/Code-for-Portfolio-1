@@ -1,0 +1,123 @@
+/* screen - pop-up-full-stacku952 */
+
+.pop-up-full-stacku952 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 45.9%, rgba(73.5, 73.5, 73.5, 0.43) 84.9%, rgba(0, 0, 0, 0.21) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 10px;
+  display: flex;
+  height: 510px;
+  overflow: hidden;
+  padding: 14px 0;
+  width: 350px;
+}
+
+.pop-up-full-stacku952 .overlap-group {
+  height: 470px;
+  margin-top: 12px;
+  position: relative;
+  width: 350px;
+}
+
+.pop-up-full-stacku952 .icround-close {
+  cursor: pointer;
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 430px;
+  width: 40px;
+}
+
+.pop-up-full-stacku952 .mobile-full-stack-_2 {
+  display: flex;
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.pop-up-full-stacku952 .group-182 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 350px;
+}
+
+.pop-up-full-stacku952 .frame-183 {
+  background-image: url(../img/rectangle-43@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  margin-left: -4483px;
+  margin-top: -12760px;
+  width: 250px;
+}
+
+.pop-up-full-stacku952 .x31-1 {
+  height: 190px;
+  margin-left: -3993px;
+  margin-top: -12792px;
+  width: 250px;
+}
+
+.pop-up-full-stacku952 .android-developer-ledu48pvwl9fgxzw {
+  margin-left: 3743px;
+}
+
+.pop-up-full-stacku952 .group-45 {
+  background-image: url(../img/rectangle-79-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-left: 290px;
+  width: 250px;
+}
+
+.pop-up-full-stacku952 .rectangle-78 {
+  height: 190px;
+  margin-left: -4726px;
+  margin-top: -12792px;
+  width: 96.5px;
+}
+
+.pop-up-full-stacku952 .android-developer-0m3xeqfvwcisdodg {
+  margin-left: 290px;
+}
+
+.pop-up-full-stacku952 .frame-182 {
+  align-items: center;
+  align-self: flex-end;
+  justify-content: center;
+  margin-bottom: 56px;
+  margin-left: 4291px;
+  width: 234px;
+}
+
+.pop-up-full-stacku952 .as-a-skilled-android {
+  height: 144px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 0;
+  text-align: center;
+  width: 234px;
+}
+
+.pop-up-full-stacku952 .right-arrow {
+  align-self: center;
+  height: 58px;
+  margin-top: 28.0px;
+  width: 58px;
+}
+
+.pop-up-full-stacku952 .android-developer {
+  height: 190px;
+  object-fit: cover;
+  width: 250px;
+}
+
+.pop-up-full-stacku952 .frame {
+  display: flex;
+  overflow: hidden;
+}

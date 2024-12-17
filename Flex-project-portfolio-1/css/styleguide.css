@@ -1,0 +1,38 @@
+:root { 
+  --light-input-color: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 21px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 14px;
+ 
+  --font-family-dm_sans: "DM Sans", Helvetica;
+  --font-family-ibm_plex_sans: "IBM Plex Sans", Helvetica;
+  --font-family-ibm_plex_sans_condensed-regular: "IBM Plex Sans Condensed-Regular", Helvetica;
+  --font-family-times_new_roman-regular: "Times New Roman-Regular", Helvetica;
+}
+.ibmplexsans-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.timesnewroman-regular-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-times_new_roman-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ibmplexsans-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_sans);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}

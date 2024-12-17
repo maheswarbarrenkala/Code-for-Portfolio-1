@@ -1,0 +1,64 @@
+/* screen - deep-learning-pop-up */
+
+.deep-learning-pop-up {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 45.9%, rgba(73.5, 73.5, 73.5, 0.43) 84.9%, rgba(0, 0, 0, 0.21) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border-radius: 10px;
+  display: flex;
+  min-height: 549px;
+  min-width: 999px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.deep-learning-pop-up .deep-learning {
+  align-items: center;
+  display: flex;
+  gap: 38px;
+  height: 549px;
+  justify-content: flex-end;
+  min-width: 999px;
+  padding: 0 38px;
+}
+
+.deep-learning-pop-up .frame-47 {
+  background-image: url(../img/rectangle-87.png);
+  background-size: 100% 100%;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 425px;
+  overflow: hidden;
+  width: 500px;
+}
+
+.deep-learning-pop-up .rectangle-87 {
+  height: 425px;
+  margin-top: 435px;
+  object-fit: cover;
+  width: 500px;
+}
+
+.deep-learning-pop-up .rectangle-87-1 {
+  height: 425px;
+  object-fit: cover;
+  width: 500px;
+}
+
+.deep-learning-pop-up .frame-57 {
+  align-items: center;
+  display: flex;
+  width: 383px;
+}
+
+.deep-learning-pop-up .ive-successfully-ta {
+  height: 200px;
+  letter-spacing: 0;
+  line-height: 29px;
+  margin-top: -8px;
+  text-align: center;
+  width: 383px;
+}

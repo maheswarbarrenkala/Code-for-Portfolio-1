@@ -1,0 +1,100 @@
+/* screen - pop-up-social-media-marketing */
+
+.pop-up-social-media-marketing {
+  align-items: flex-start;
+  display: flex;
+  width: 352px;
+}
+
+.pop-up-social-media-marketing .overlap-group1 {
+  height: 510px;
+  position: relative;
+  width: 352px;
+}
+
+.pop-up-social-media-marketing .icround-close {
+  cursor: pointer;
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 456px;
+  width: 40px;
+}
+
+.pop-up-social-media-marketing .mobile-social-media {
+  height: 458px;
+  left: 2px;
+  position: absolute;
+  top: 26px;
+  width: 350px;
+}
+
+.pop-up-social-media-marketing .frame-194 {
+  align-items: center;
+  height: 144px;
+  justify-content: center;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.pop-up-social-media-marketing .as-a-skilled-project {
+  height: 144px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  width: 234px;
+}
+
+.pop-up-social-media-marketing .overlap-group {
+  height: 240px;
+  left: 50px;
+  position: absolute;
+  top: 32px;
+  width: 300px;
+}
+
+.pop-up-social-media-marketing .right-arrow {
+  height: 58px;
+  left: 242px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.pop-up-social-media-marketing .frame-183 {
+  background-image: url(../img/rectangle-113-8@2x.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  left: 0;
+  overflow: hidden;
+  top: 0;
+  width: 250px;
+}
+
+.pop-up-social-media-marketing .rectangle-113 {
+  height: 190px;
+  margin-left: -4266px;
+  margin-top: -15086px;
+  width: 250px;
+}
+
+.pop-up-social-media-marketing .rectangle-113-1 {
+  margin-left: 4286px;
+}
+
+.pop-up-social-media-marketing .rectangle-113-2 {
+  margin-left: 290px;
+}
+
+.pop-up-social-media-marketing .frame {
+  display: flex;
+  position: absolute;
+}
+
+.pop-up-social-media-marketing .rectangle-113-3 {
+  height: 190px;
+  object-fit: cover;
+  width: 250px;
+}
