@@ -1,0 +1,47 @@
+.screen-8 {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-8 .pop-up-full-stack-3 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 510px;
+  overflow: hidden;
+  width: 350px;
+}
+
+.screen-8 .overlap-4 {
+  height: 470px;
+  position: relative;
+  top: 26px;
+}
+
+.screen-8 .ic-round-close-4 {
+  left: 155px !important;
+  top: 430px !important;
+}
+
+.screen-8 .mobile-full-stack-3-instance {
+  border-radius: unset !important;
+  left: 0 !important;
+  overflow: unset !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.screen-8 .mobile-full-stack-5 {
+  left: -4986px !important;
+  top: -12799px !important;
+}

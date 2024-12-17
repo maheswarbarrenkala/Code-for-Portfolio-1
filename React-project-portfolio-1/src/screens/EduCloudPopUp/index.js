@@ -1,0 +1,1 @@
+export { EduCloudPopUp } from "./EduCloudPopUp";

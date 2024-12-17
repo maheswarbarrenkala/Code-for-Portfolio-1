@@ -1,0 +1,1 @@
+export { PopUpAi } from "./PopUpAi";

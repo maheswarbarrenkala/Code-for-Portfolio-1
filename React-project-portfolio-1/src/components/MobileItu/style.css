@@ -1,0 +1,92 @@
+.mobile-itu {
+  height: 510px;
+  left: 20px;
+  position: relative;
+  width: 350px;
+}
+
+.mobile-itu .at-international-wrapper {
+  height: 415px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 289px;
+}
+
+.mobile-itu .at-international {
+  color: #ffffff;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  width: 289px;
+}
+
+.mobile-itu .text-wrapper {
+  color: #ffffff;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.mobile-itu .span {
+  font-weight: 700;
+}
+
+.mobile-itu .group {
+  height: 370px;
+  left: 328px;
+  position: absolute;
+  top: 70px;
+  width: 8px;
+}
+
+.mobile-itu .overlap-group {
+  background-color: #d9d9d9;
+  border: 1.5px solid;
+  border-color: #616161;
+  border-radius: 50px;
+  height: 373px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 11px;
+}
+
+.mobile-itu .rectangle {
+  background: linear-gradient(
+    180deg,
+    rgb(181, 23, 158) 0%,
+    rgb(247, 37, 133) 100%
+  );
+  border-radius: 50px;
+  height: 312px;
+  width: 8px;
+}
+
+.mobile-itu.default {
+  top: 20px;
+}
+
+.mobile-itu.variant-2 {
+  top: 550px;
+}
+
+.mobile-itu.default .at-international {
+  top: -2px;
+}
+
+.mobile-itu.variant-2 .at-international {
+  top: -416px;
+}
+
+.mobile-itu.variant-2 .rectangle {
+  position: relative;
+  top: 58px;
+}

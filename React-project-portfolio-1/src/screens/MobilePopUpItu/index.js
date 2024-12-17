@@ -1,0 +1,1 @@
+export { MobilePopUpItu } from "./MobilePopUpItu";

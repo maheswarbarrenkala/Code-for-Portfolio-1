@@ -1,0 +1,66 @@
+.oracle-java {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.oracle-java .div-7 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  position: relative;
+  width: 999px;
+}
+
+.oracle-java .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans Condensed-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 467px;
+  left: 669px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 295px;
+}
+
+.oracle-java .java {
+  background-image: url(../../../static/img/rectangle-133-10.png);
+  background-size: 100% 100%;
+  height: 467px;
+  left: 35px;
+  overflow: hidden;
+  position: absolute;
+  top: 41px;
+  width: 603px;
+}
+
+.oracle-java .rectangle-61 {
+  height: 467px;
+  left: 5117px;
+  position: absolute;
+  top: -4167px;
+  width: 603px;
+}
+
+.oracle-java .rectangle-62 {
+  height: 467px;
+  left: 5117px;
+  position: absolute;
+  top: -3690px;
+  width: 603px;
+}

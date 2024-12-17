@@ -1,0 +1,229 @@
+.property-default-wrapper {
+  border-radius: 10px;
+  height: 458px;
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+  width: 350px;
+}
+
+.property-default-wrapper .as-a-skilled-web-wrapper {
+  height: 144px;
+  left: 58px;
+  overflow: hidden;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.property-default-wrapper .as-a-skilled-web {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 234px;
+}
+
+.property-default-wrapper .overlap-group-5 {
+  position: absolute;
+}
+
+.property-default-wrapper .right-arrow-8 {
+  height: 58px;
+  left: 242px;
+  position: absolute;
+  top: 175px;
+  width: 58px;
+}
+
+.property-default-wrapper .frame-13 {
+  background-image: url(../../../static/img/rectangle-83-30.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  height: 190px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.property-default-wrapper .rectangle-15 {
+  height: 190px;
+  left: -6257px;
+  position: absolute;
+  top: -8804px;
+  width: 250px;
+}
+
+.property-default-wrapper .rectangle-16 {
+  height: 190px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.property-default-wrapper .as-a-skilled-web-2 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  width: 234px;
+}
+
+.property-default-wrapper .right-arrow-9 {
+  height: 58px;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.property-default-wrapper .overlap-group-6 {
+  position: absolute;
+  top: 39px;
+}
+
+.property-default-wrapper .rectangle-17 {
+  position: absolute;
+}
+
+.property-default-wrapper .rectangle-18 {
+  height: 190px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.property-default-wrapper .rectangle-19 {
+  height: 190px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.property-default-wrapper .rectangle-20 {
+  height: 190px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.property-default-wrapper.property-1-31-default {
+  left: 20px;
+}
+
+.property-default-wrapper.property-1-31-variant-3 {
+  left: 810px;
+}
+
+.property-default-wrapper.property-1-31-variant-2 {
+  left: 415px;
+}
+
+.property-default-wrapper.property-1-31-default .overlap-group-5 {
+  height: 233px;
+  left: 50px;
+  top: 39px;
+  width: 300px;
+}
+
+.property-default-wrapper.property-1-31-variant-3 .overlap-group-5 {
+  height: 144px;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.property-default-wrapper.property-1-31-variant-2 .overlap-group-5 {
+  height: 144px;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.property-default-wrapper.property-1-31-default .as-a-skilled-web-2 {
+  top: -147px;
+}
+
+.property-default-wrapper.property-1-31-variant-3 .as-a-skilled-web-2 {
+  top: -292px;
+}
+
+.property-default-wrapper.property-1-31-variant-2 .as-a-skilled-web-2 {
+  top: -147px;
+}
+
+.property-default-wrapper.property-1-31-default .right-arrow-9 {
+  left: 292px;
+}
+
+.property-default-wrapper.property-1-31-variant-3 .right-arrow-9 {
+  left: 0;
+}
+
+.property-default-wrapper.property-1-31-variant-2 .right-arrow-9 {
+  left: 292px;
+}
+
+.property-default-wrapper.property-1-31-default .overlap-group-6 {
+  height: 233px;
+  left: -220px;
+  width: 278px;
+}
+
+.property-default-wrapper.property-1-31-variant-3 .overlap-group-6 {
+  background-image: url(../../../static/img/rectangle-83-30.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  height: 190px;
+  left: -490px;
+  overflow: hidden;
+  width: 250px;
+}
+
+.property-default-wrapper.property-1-31-variant-2 .overlap-group-6 {
+  height: 233px;
+  left: -220px;
+  width: 278px;
+}
+
+.property-default-wrapper.property-1-31-default .rectangle-17 {
+  height: 190px;
+  left: -7587px;
+  top: -8804px;
+  width: 250px;
+}
+
+.property-default-wrapper.property-1-31-variant-3 .rectangle-17 {
+  height: 190px;
+  left: -7587px;
+  top: -8804px;
+  width: 250px;
+}
+
+.property-default-wrapper.property-1-31-variant-2 .rectangle-17 {
+  height: 58px;
+  left: 220px;
+  top: 175px;
+  width: 58px;
+}

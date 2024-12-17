@@ -1,0 +1,91 @@
+.UX-documentation-pop {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.UX-documentation-pop .UX-documentation-wrapper {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  width: 999px;
+}
+
+.UX-documentation-pop .UX-documentation {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  position: relative;
+}
+
+.UX-documentation-pop .as-a-skilled-UX-wrapper {
+  height: 200px;
+  left: 578px;
+  position: absolute;
+  top: 175px;
+  width: 383px;
+}
+
+.UX-documentation-pop .as-a-skilled-UX {
+  color: #ffffff;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: -7px;
+  width: 383px;
+}
+
+.UX-documentation-pop .drop-down-minor-5 {
+  height: 60px;
+  left: 740px;
+  position: absolute;
+  top: 427px;
+  width: 60px;
+}
+
+.UX-documentation-pop .frame-26 {
+  background-image: url(../../../static/img/rectangle-93-17.png);
+  background-size: 100% 100%;
+  border-radius: 50px;
+  height: 425px;
+  left: 40px;
+  overflow: hidden;
+  position: absolute;
+  top: 62px;
+  width: 500px;
+}
+
+.UX-documentation-pop .rectangle-41 {
+  height: 425px;
+  left: -3967px;
+  position: absolute;
+  top: -3415px;
+  width: 500px;
+}
+
+.UX-documentation-pop .rectangle-42 {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 870px;
+  width: 500px;
+}

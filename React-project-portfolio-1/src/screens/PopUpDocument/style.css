@@ -1,0 +1,121 @@
+.pop-up-document {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pop-up-document .overlap-wrapper-6 {
+  height: 510px;
+  width: 351px;
+}
+
+.pop-up-document .overlap-7 {
+  height: 510px;
+  position: relative;
+}
+
+.pop-up-document .rectangle-57 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  border-radius: 10px;
+  height: 510px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.pop-up-document .ic-round-close-7 {
+  left: 155px !important;
+  top: 456px !important;
+}
+
+.pop-up-document .mobile-document {
+  height: 458px;
+  left: 1px;
+  position: absolute;
+  top: 26px;
+  width: 350px;
+}
+
+.pop-up-document .frame-39 {
+  height: 144px;
+  left: 58px;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.pop-up-document .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 234px;
+}
+
+.pop-up-document .overlap-group-13 {
+  height: 240px;
+  left: 50px;
+  position: absolute;
+  top: 32px;
+  width: 300px;
+}
+
+.pop-up-document .right-arrow-13 {
+  height: 58px;
+  left: 242px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.pop-up-document .frame-40 {
+  background-image: url(../../../static/img/rectangle-109-60.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.pop-up-document .rectangle-58 {
+  height: 190px;
+  left: -4987px;
+  position: absolute;
+  top: -14508px;
+  width: 250px;
+}
+
+.pop-up-document .rectangle-59 {
+  height: 190px;
+  left: -4717px;
+  position: absolute;
+  top: -14508px;
+  width: 250px;
+}
+
+.pop-up-document .rectangle-60 {
+  height: 190px;
+  left: -4447px;
+  position: absolute;
+  top: -14508px;
+  width: 250px;
+}

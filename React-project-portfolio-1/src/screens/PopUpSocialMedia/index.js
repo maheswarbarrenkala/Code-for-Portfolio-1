@@ -1,0 +1,1 @@
+export { PopUpSocialMedia } from "./PopUpSocialMedia";

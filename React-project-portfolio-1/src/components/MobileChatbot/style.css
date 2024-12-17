@@ -1,0 +1,230 @@
+.mobile-chatbot {
+  border-radius: 10px;
+  height: 458px;
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+  width: 350px;
+}
+
+.mobile-chatbot .i-ve-successfully-wrapper {
+  height: 144px;
+  left: 58px;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-chatbot .i-ve-successfully {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  width: 234px;
+}
+
+.mobile-chatbot .overlap-group-7 {
+  position: absolute;
+}
+
+.mobile-chatbot .right-arrow-10 {
+  height: 58px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.mobile-chatbot .left-arrow-5 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.mobile-chatbot .frame-14 {
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  height: 190px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-chatbot .rectangle-21 {
+  height: 190px;
+  object-fit: cover;
+  position: absolute;
+  width: 250px;
+}
+
+.mobile-chatbot .rectangle-22 {
+  height: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-chatbot .i-ve-successfully-2 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: -290px;
+  width: 234px;
+}
+
+.mobile-chatbot .left-arrow-6 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.mobile-chatbot .frame-15 {
+  background-image: url(../../../static/img/rectangle-85-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+  height: 190px;
+  left: -490px;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 250px;
+}
+
+.mobile-chatbot .rectangle-23 {
+  height: 190px;
+  left: -270px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-chatbot .rectangle-24 {
+  height: 190px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-chatbot.property-1-37-default {
+  left: 20px;
+}
+
+.mobile-chatbot.property-1-37-variant-3 {
+  left: 788px;
+}
+
+.mobile-chatbot.property-1-37-variant-2 {
+  left: 404px;
+}
+
+.mobile-chatbot.property-1-37-default .i-ve-successfully-wrapper {
+  overflow: hidden;
+}
+
+.mobile-chatbot.property-1-37-default .i-ve-successfully {
+  top: -1px;
+}
+
+.mobile-chatbot.property-1-37-variant-3 .i-ve-successfully {
+  top: -1px;
+}
+
+.mobile-chatbot.property-1-37-variant-2 .i-ve-successfully {
+  top: -145px;
+}
+
+.mobile-chatbot.property-1-37-default .overlap-group-7 {
+  height: 240px;
+  left: 50px;
+  top: 32px;
+  width: 300px;
+}
+
+.mobile-chatbot.property-1-37-variant-3 .overlap-group-7 {
+  height: 144px;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-chatbot.property-1-37-variant-2 .overlap-group-7 {
+  height: 240px;
+  left: 0;
+  top: 32px;
+  width: 350px;
+}
+
+.mobile-chatbot.property-1-37-default .right-arrow-10 {
+  left: 242px;
+}
+
+.mobile-chatbot.property-1-37-variant-3 .right-arrow-10 {
+  left: 292px;
+}
+
+.mobile-chatbot.property-1-37-variant-2 .right-arrow-10 {
+  left: 292px;
+}
+
+.mobile-chatbot.property-1-37-default .frame-14 {
+  background-image: url(../../../static/img/rectangle-85-8.png);
+  left: 0;
+}
+
+.mobile-chatbot.property-1-37-variant-3 .frame-14 {
+  background-image: url(../../../static/img/rectangle-85-8.png);
+  left: 0;
+}
+
+.mobile-chatbot.property-1-37-variant-2 .frame-14 {
+  background-image: url(../../../static/img/rectangle-85-9.png);
+  left: 50px;
+}
+
+.mobile-chatbot.property-1-37-default .rectangle-21 {
+  left: 270px;
+  top: 0;
+}
+
+.mobile-chatbot.property-1-37-variant-3 .rectangle-21 {
+  left: 270px;
+  top: 0;
+}
+
+.mobile-chatbot.property-1-37-variant-2 .rectangle-21 {
+  left: -7179px;
+  top: -9503px;
+}
+
+.mobile-chatbot.property-1-37-default .rectangle-22 {
+  left: 540px;
+}
+
+.mobile-chatbot.property-1-37-variant-3 .rectangle-22 {
+  left: 540px;
+}
+
+.mobile-chatbot.property-1-37-variant-2 .rectangle-22 {
+  left: 270px;
+}

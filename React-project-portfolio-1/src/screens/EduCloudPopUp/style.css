@@ -1,0 +1,101 @@
+.edu-cloud-pop-up {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.edu-cloud-pop-up .edu-cloud-wrapper {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  width: 999px;
+}
+
+.edu-cloud-pop-up .edu-cloud {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  position: relative;
+}
+
+.edu-cloud-pop-up .as-a-skilled-cloud-wrapper {
+  height: 200px;
+  left: 578px;
+  overflow: hidden;
+  position: absolute;
+  top: 175px;
+  width: 383px;
+}
+
+.edu-cloud-pop-up .as-a-skilled-cloud {
+  color: #ffffff;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 383px;
+}
+
+.edu-cloud-pop-up .drop-down-minor-8 {
+  height: 60px;
+  left: 740px;
+  position: absolute;
+  top: 427px;
+  width: 60px;
+}
+
+.edu-cloud-pop-up .frame-29 {
+  background-image: url(../../../static/img/rectangle-107-31.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 50px;
+  height: 425px;
+  left: 40px;
+  overflow: hidden;
+  position: absolute;
+  top: 62px;
+  width: 500px;
+}
+
+.edu-cloud-pop-up .rectangle-47 {
+  height: 425px;
+  left: -3967px;
+  position: absolute;
+  top: -6127px;
+  width: 500px;
+}
+
+.edu-cloud-pop-up .rectangle-48 {
+  height: 425px;
+  left: -3967px;
+  position: absolute;
+  top: -5692px;
+  width: 500px;
+}
+
+.edu-cloud-pop-up .rectangle-49 {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1305px;
+  width: 500px;
+}

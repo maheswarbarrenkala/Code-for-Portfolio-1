@@ -1,0 +1,561 @@
+.mobile-full-stack {
+  height: 458px;
+  position: relative;
+  width: 350px;
+}
+
+.mobile-full-stack .group-2 {
+  border-radius: 10px;
+  height: 458px;
+  position: relative;
+}
+
+.mobile-full-stack .as-a-skilled-android-wrapper {
+  height: 144px;
+  left: 58px;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-full-stack .as-a-skilled-android {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  width: 234px;
+}
+
+.mobile-full-stack .frame-4 {
+  height: 144px;
+  left: 58px;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-full-stack .as-a-skilled-android-2 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  width: 234px;
+}
+
+.mobile-full-stack .overlap-group-3 {
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 350px;
+}
+
+.mobile-full-stack .right-arrow-3 {
+  height: 58px;
+  left: 292px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.mobile-full-stack .left-arrow-2 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.mobile-full-stack .frame-5 {
+  background-image: url(../../../static/img/31-1-32.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  left: 50px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer {
+  height: 190px;
+  left: 810px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-2 {
+  height: 190px;
+  left: -270px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .element {
+  height: 190px;
+  left: -6400px;
+  position: absolute;
+  top: -8084px;
+  width: 250px;
+}
+
+.mobile-full-stack .rectangle-wrapper {
+  background-image: url(../../../static/img/rectangle-79-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 190px;
+  left: 270px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .rectangle-5 {
+  height: 190px;
+  left: -6863px;
+  position: absolute;
+  top: -8084px;
+  width: 96px;
+}
+
+.mobile-full-stack .right-arrow-4 {
+  height: 58px;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.mobile-full-stack .left-arrow-3 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.mobile-full-stack .frame-6 {
+  background-image: url(../../../static/img/31-1-32.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  left: -8260px;
+  overflow: hidden;
+  position: absolute;
+  top: -8052px;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-3 {
+  height: 190px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-4 {
+  height: 190px;
+  left: -810px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .element-2 {
+  height: 190px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .img-wrapper {
+  background-image: url(../../../static/img/rectangle-79-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 190px;
+  left: -270px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .rectangle-6 {
+  height: 190px;
+  left: -7693px;
+  position: absolute;
+  top: -8084px;
+  width: 96px;
+}
+
+.mobile-full-stack .frame-7 {
+  background-image: url(../../../static/img/31-1-32.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  overflow: hidden;
+  position: absolute;
+  top: -8052px;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-5 {
+  height: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-6 {
+  height: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .element-3 {
+  height: 190px;
+  position: absolute;
+  top: -8084px;
+  width: 250px;
+}
+
+.mobile-full-stack .group-3 {
+  background-image: url(../../../static/img/rectangle-79-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 190px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .rectangle-7 {
+  height: 190px;
+  position: absolute;
+  top: -8084px;
+  width: 96px;
+}
+
+.mobile-full-stack .group-4 {
+  border-radius: 10px;
+  height: 458px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.mobile-full-stack .frame-8 {
+  height: 144px;
+  left: 58px;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-full-stack .as-a-skilled-android-3 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: -289px;
+  width: 234px;
+}
+
+.mobile-full-stack .right-arrow-5 {
+  height: 58px;
+  left: 292px;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.mobile-full-stack .frame-9 {
+  background-image: url(../../../static/img/31-1-32.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  left: -7575px;
+  overflow: hidden;
+  position: absolute;
+  top: -8052px;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-7 {
+  height: 190px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .android-developer-8 {
+  height: 190px;
+  left: -540px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .element-4 {
+  height: 190px;
+  left: -7085px;
+  position: absolute;
+  top: -8084px;
+  width: 250px;
+}
+
+.mobile-full-stack .group-5 {
+  background-image: url(../../../static/img/rectangle-79-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 190px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-full-stack .rectangle-8 {
+  height: 190px;
+  left: 77px;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 {
+  left: 1265px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 {
+  left: 435px;
+  top: 20px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 {
+  left: 850px;
+  top: 20px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 {
+  left: 1680px;
+  top: 20px;
+}
+
+.mobile-full-stack.property-1-14-default {
+  left: 20px;
+  top: 20px;
+}
+
+.mobile-full-stack.property-1-14-default .as-a-skilled-android-wrapper {
+  overflow: hidden;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .as-a-skilled-android {
+  top: -1px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .as-a-skilled-android {
+  top: -1px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .as-a-skilled-android {
+  top: -1px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .as-a-skilled-android {
+  top: -579px;
+}
+
+.mobile-full-stack.property-1-14-default .as-a-skilled-android {
+  top: -1px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .as-a-skilled-android-2 {
+  top: -436px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .as-a-skilled-android-2 {
+  top: -145px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .as-a-skilled-android-2 {
+  top: -145px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .as-a-skilled-android-2 {
+  top: -145px;
+}
+
+.mobile-full-stack.property-1-14-default .as-a-skilled-android-2 {
+  top: -145px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .right-arrow-4 {
+  left: 292px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .right-arrow-4 {
+  left: 292px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .right-arrow-4 {
+  left: 292px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .right-arrow-4 {
+  left: 0;
+}
+
+.mobile-full-stack.property-1-14-default .right-arrow-4 {
+  left: 292px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .frame-7 {
+  left: -6205px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .frame-7 {
+  left: -6205px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .frame-7 {
+  left: -6205px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .frame-7 {
+  left: -8945px;
+}
+
+.mobile-full-stack.property-1-14-default .frame-7 {
+  left: -6205px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .android-developer-5 {
+  left: 1080px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .android-developer-5 {
+  left: 1080px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .android-developer-5 {
+  left: 1080px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .android-developer-5 {
+  left: 0;
+}
+
+.mobile-full-stack.property-1-14-default .android-developer-5 {
+  left: 1080px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .android-developer-6 {
+  left: 0;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .android-developer-6 {
+  left: 0;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .android-developer-6 {
+  left: 0;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .android-developer-6 {
+  left: -1080px;
+}
+
+.mobile-full-stack.property-1-14-default .android-developer-6 {
+  left: 0;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .element-3 {
+  left: -5715px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .element-3 {
+  left: -5715px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .element-3 {
+  left: -5715px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .element-3 {
+  left: -8455px;
+}
+
+.mobile-full-stack.property-1-14-default .element-3 {
+  left: -5715px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .group-3 {
+  left: 540px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .group-3 {
+  left: 540px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .group-3 {
+  left: 540px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .group-3 {
+  left: -540px;
+}
+
+.mobile-full-stack.property-1-14-default .group-3 {
+  left: 540px;
+}
+
+.mobile-full-stack.property-1-14-variant-4 .rectangle-7 {
+  left: -6448px;
+}
+
+.mobile-full-stack.property-1-14-variant-2 .rectangle-7 {
+  left: -6448px;
+}
+
+.mobile-full-stack.property-1-14-variant-3 .rectangle-7 {
+  left: -6448px;
+}
+
+.mobile-full-stack.property-1-14-variant-5 .rectangle-7 {
+  left: -8108px;
+}
+
+.mobile-full-stack.property-1-14-default .rectangle-7 {
+  left: -6448px;
+}

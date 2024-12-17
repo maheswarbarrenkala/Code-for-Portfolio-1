@@ -1,0 +1,35 @@
+.div-wrapper {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.div-wrapper .frame-20 {
+  background-image: url(../../../static/img/rectangle-85-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 425px;
+  overflow: hidden;
+  position: relative;
+  width: 500px;
+}
+
+.div-wrapper .rectangle-32 {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 435px;
+  width: 500px;
+}
+
+.div-wrapper .rectangle-33 {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 870px;
+  width: 500px;
+}

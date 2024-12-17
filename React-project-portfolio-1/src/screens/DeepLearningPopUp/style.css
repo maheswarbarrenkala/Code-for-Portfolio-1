@@ -1,0 +1,88 @@
+.deep-learning-pop-up {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.deep-learning-pop-up .deep-learning-wrapper {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  width: 999px;
+}
+
+.deep-learning-pop-up .deep-learning {
+  height: 549px;
+  position: relative;
+}
+
+.deep-learning-pop-up .frame-23 {
+  height: 200px;
+  left: 578px;
+  position: absolute;
+  top: 175px;
+  width: 383px;
+}
+
+.deep-learning-pop-up .i-ve-successfully-6 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: -5px;
+  width: 383px;
+}
+
+.deep-learning-pop-up .drop-down-minor-3 {
+  height: 60px;
+  left: 740px;
+  position: absolute;
+  top: 427px;
+  width: 60px;
+}
+
+.deep-learning-pop-up .frame-24 {
+  background-image: url(../../../static/img/rectangle-87-10.png);
+  background-size: 100% 100%;
+  border-radius: 50px;
+  height: 425px;
+  left: 40px;
+  overflow: hidden;
+  position: absolute;
+  top: 62px;
+  width: 500px;
+}
+
+.deep-learning-pop-up .rectangle-37 {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 435px;
+  width: 500px;
+}
+
+.deep-learning-pop-up .rectangle-38 {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 870px;
+  width: 500px;
+}

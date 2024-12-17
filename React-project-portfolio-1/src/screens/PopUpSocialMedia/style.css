@@ -1,0 +1,51 @@
+.pop-up-social-media {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pop-up-social-media .overlap-wrapper-3 {
+  height: 510px;
+  width: 352px;
+}
+
+.pop-up-social-media .overlap-3 {
+  height: 510px;
+  position: relative;
+}
+
+.pop-up-social-media .rectangle-34 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  border-radius: 10px;
+  height: 510px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.pop-up-social-media .ic-round-close-3 {
+  left: 155px !important;
+  top: 456px !important;
+}
+
+.pop-up-social-media .mobile-social-media-instance {
+  border-radius: unset !important;
+  left: 2px !important;
+  position: absolute !important;
+  top: 26px !important;
+}
+
+.pop-up-social-media .mobile-social-media-2 {
+  left: -4266px !important;
+  top: -15086px !important;
+}

@@ -1,0 +1,219 @@
+.mobile-AI {
+  border-radius: 10px;
+  height: 458px;
+  position: relative;
+  top: 20px;
+  width: 350px;
+}
+
+.mobile-AI .frame-16 {
+  height: 144px;
+  left: 58px;
+  overflow: hidden;
+  position: absolute;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-AI .i-ve-successfully-3 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 234px;
+}
+
+.mobile-AI .text-wrapper-2 {
+  line-height: 18px;
+}
+
+.mobile-AI .text-wrapper-3 {
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  line-height: 29px;
+}
+
+.mobile-AI .overlap-group-8 {
+  position: absolute;
+}
+
+.mobile-AI .right-arrow-11 {
+  height: 58px;
+  left: 242px;
+  position: absolute;
+  top: 182px;
+  width: 58px;
+}
+
+.mobile-AI .frame-17 {
+  background-image: url(../../../static/img/rectangle-87-20.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-AI .rectangle-25 {
+  height: 190px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-AI .rectangle-26 {
+  height: 190px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-AI .i-ve-successfully-4 {
+  color: #ffffff;
+  font-family: "Times New Roman-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: -146px;
+  width: 234px;
+}
+
+.mobile-AI .right-arrow-12 {
+  height: 58px;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.mobile-AI .left-arrow-7 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 214px;
+  width: 58px;
+}
+
+.mobile-AI .frame-18 {
+  background-image: url(../../../static/img/rectangle-87-21.png);
+  background-size: 100% 100%;
+  border-radius: 5px;
+  height: 190px;
+  overflow: hidden;
+  position: absolute;
+  top: -10115px;
+  width: 250px;
+}
+
+.mobile-AI .rectangle-27 {
+  height: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-AI .rectangle-28 {
+  height: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.mobile-AI.property-1-45-default {
+  left: 20px;
+}
+
+.mobile-AI.property-1-45-variant-3 {
+  left: 850px;
+}
+
+.mobile-AI.property-1-45-variant-2 {
+  left: 435px;
+}
+
+.mobile-AI.property-1-45-default .overlap-group-8 {
+  height: 240px;
+  left: 50px;
+  top: 32px;
+  width: 300px;
+}
+
+.mobile-AI.property-1-45-variant-3 .overlap-group-8 {
+  height: 240px;
+  left: 50px;
+  top: 32px;
+  width: 300px;
+}
+
+.mobile-AI.property-1-45-variant-2 .overlap-group-8 {
+  height: 144px;
+  left: 58px;
+  top: 258px;
+  width: 234px;
+}
+
+.mobile-AI.property-1-45-default .right-arrow-12 {
+  left: 292px;
+}
+
+.mobile-AI.property-1-45-variant-3 .right-arrow-12 {
+  left: 0;
+}
+
+.mobile-AI.property-1-45-variant-2 .right-arrow-12 {
+  left: 292px;
+}
+
+.mobile-AI.property-1-45-default .frame-18 {
+  left: -7162px;
+}
+
+.mobile-AI.property-1-45-variant-3 .frame-18 {
+  left: -7847px;
+}
+
+.mobile-AI.property-1-45-variant-2 .frame-18 {
+  left: -7162px;
+}
+
+.mobile-AI.property-1-45-default .rectangle-27 {
+  left: 0;
+}
+
+.mobile-AI.property-1-45-variant-3 .rectangle-27 {
+  left: -270px;
+}
+
+.mobile-AI.property-1-45-variant-2 .rectangle-27 {
+  left: 0;
+}
+
+.mobile-AI.property-1-45-default .rectangle-28 {
+  left: 270px;
+}
+
+.mobile-AI.property-1-45-variant-3 .rectangle-28 {
+  left: 0;
+}
+
+.mobile-AI.property-1-45-variant-2 .rectangle-28 {
+  left: 270px;
+}

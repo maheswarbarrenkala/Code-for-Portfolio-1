@@ -1,0 +1,59 @@
+.pop-up-full-stack-screen {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pop-up-full-stack-screen .pop-up-full-stack-2 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 510px;
+  overflow: hidden;
+  width: 350px;
+}
+
+.pop-up-full-stack-screen .overlap-group-11 {
+  height: 470px;
+  position: relative;
+  top: 26px;
+}
+
+.pop-up-full-stack-screen .ic-round-close-2 {
+  left: 155px !important;
+  top: 430px !important;
+}
+
+.pop-up-full-stack-screen .mobile-full-stack-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.pop-up-full-stack-screen .mobile-full-stack-instance {
+  border-radius: unset !important;
+}
+
+.pop-up-full-stack-screen .mobile-full-stack-2-instance {
+  left: -4483px !important;
+  top: -12760px !important;
+}
+
+.pop-up-full-stack-screen .mobile-full-stack-3 {
+  left: -3993px !important;
+  top: -12792px !important;
+}
+
+.pop-up-full-stack-screen .mobile-full-stack-4 {
+  left: -4726px !important;
+  top: -12792px !important;
+}

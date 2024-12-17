@@ -1,0 +1,98 @@
+.document-control {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.document-control .document-control-wrapper {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.6) 45.9%,
+    rgba(73.5, 73.5, 73.5, 0.43) 84.9%,
+    rgba(0, 0, 0, 0.21) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  width: 999px;
+}
+
+.document-control .div-6 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  border-radius: 10px;
+  height: 549px;
+  overflow: hidden;
+  position: relative;
+}
+
+.document-control .frame-34 {
+  height: 200px;
+  left: 578px;
+  position: absolute;
+  top: 175px;
+  width: 383px;
+}
+
+.document-control .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  width: 383px;
+}
+
+.document-control .drop-down-minor-10 {
+  height: 60px;
+  left: 740px;
+  position: absolute;
+  top: 427px;
+  width: 60px;
+}
+
+.document-control .frame-35 {
+  background-image: url(../../../static/img/rectangle-109-40.png);
+  background-size: 100% 100%;
+  border-radius: 50px;
+  height: 425px;
+  left: 40px;
+  overflow: hidden;
+  position: absolute;
+  top: 62px;
+  width: 500px;
+}
+
+.document-control .rectangle-50 {
+  height: 425px;
+  left: -3967px;
+  position: absolute;
+  top: -6801px;
+  width: 500px;
+}
+
+.document-control .rectangle-51 {
+  height: 425px;
+  left: -3967px;
+  position: absolute;
+  top: -6366px;
+  width: 500px;
+}
+
+.document-control .rectangle-52 {
+  height: 425px;
+  left: -3967px;
+  position: absolute;
+  top: -5931px;
+  width: 500px;
+}
